@@ -1,7 +1,7 @@
 import random  
 import os
 
-tipp = int(input("Tippelj egy egész számot 1 és 6 között: "))
+tipp = int(input("Tippelj egy egész számot 1 és 6 között: "))  # bekér a felhasználótól egy egész számot
 
 szam = random.randint(1,6) # generál egy random számot
 
