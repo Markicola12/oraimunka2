@@ -1,2 +1,5 @@
 import random
 
+tipp = int(input("Tippelj egy egész számot 1 és 6 között: "))
+
+szam = random.randint(1,6)
